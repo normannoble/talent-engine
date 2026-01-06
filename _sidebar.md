@@ -1,0 +1,115 @@
+- **Getting Started**
+  - [Welcome](/)
+  - Frameworks
+    - [Job Descriptions vs Job Ads](frameworks/Job_Descriptions_vs_Job_Ads.md)
+    - [Composable Leveling Framework](frameworks/Composable_Leveling_Framework.md)
+    - [Traditional Leveling Framework](frameworks/Traditional_Leveling_Framework.md)
+
+- **Role Definitions**
+  - Job Descriptions
+    - IC Track
+      - [IC1 Associate Software Engineer](job-descriptions/ic/IC1_Associate_Software_Engineer.md)
+      - [IC2 Software Engineer](job-descriptions/ic/IC2_Software_Engineer.md)
+      - [IC3 Senior Software Engineer](job-descriptions/ic/IC3_Senior_Software_Engineer.md)
+      - [IC4 Staff Software Engineer](job-descriptions/ic/IC4_Staff_Software_Engineer.md)
+      - [IC5 Distinguished Software Engineer](job-descriptions/ic/IC5_Distinguished_Software_Engineer.md)
+    - Management Track
+      - [M1 Engineering Manager](job-descriptions/management/M1_Engineering_Manager.md)
+      - [M2 Senior Engineering Manager](job-descriptions/management/M2_Senior_Engineering_Manager.md)
+      - [M3 Head of Engineering](job-descriptions/management/M3_Head_of_Engineering.md)
+    - Executive Track
+      - [E1 Director of Engineering](job-descriptions/executive/E1_Director_of_Engineering.md)
+      - [E2 Senior Director of Engineering](job-descriptions/executive/E2_Senior_Director_of_Engineering.md)
+      - [E3 Chief Technology Officer](job-descriptions/executive/E3_Chief_Technology_Officer.md)
+  - Templates
+    - [Job Description Template](templates/Standardized_Job_Description_Template.md)
+    - [JD Creation Assistant](templates/JD_Creation_Assistant.md)
+
+- **Talent Acquisition**
+  - Hiring
+    - [Interview Scorecard Guide](hiring/Interview_Scorecard_Guide.md)
+    - IC Interview Scorecards
+      - [IC1](hiring/scorecards/ic/IC1_Interview_Scorecard.md)
+      - [IC2](hiring/scorecards/ic/IC2_Interview_Scorecard.md)
+      - [IC3](hiring/scorecards/ic/IC3_Interview_Scorecard.md)
+      - [IC4](hiring/scorecards/ic/IC4_Interview_Scorecard.md)
+      - [IC5](hiring/scorecards/ic/IC5_Interview_Scorecard.md)
+    - Management Interview Scorecards
+      - [M1](hiring/scorecards/management/M1_Interview_Scorecard.md)
+      - [M2](hiring/scorecards/management/M2_Interview_Scorecard.md)
+      - [M3](hiring/scorecards/management/M3_Interview_Scorecard.md)
+    - Executive Interview Scorecards
+      - [E1](hiring/scorecards/executive/E1_Interview_Scorecard.md)
+      - [E2](hiring/scorecards/executive/E2_Interview_Scorecard.md)
+      - [E3](hiring/scorecards/executive/E3_Interview_Scorecard.md)
+  - Onboarding
+    - [Onboarding Framework](onboarding/Onboarding_Framework.md)
+    - IC Onboarding
+      - [IC1](onboarding/ic/IC1_Onboarding.md)
+      - [IC2](onboarding/ic/IC2_Onboarding.md)
+      - [IC3](onboarding/ic/IC3_Onboarding.md)
+      - [IC4](onboarding/ic/IC4_Onboarding.md)
+      - [IC5](onboarding/ic/IC5_Onboarding.md)
+    - Management Onboarding
+      - [M1](onboarding/management/M1_Onboarding.md)
+      - [M2](onboarding/management/M2_Onboarding.md)
+      - [M3](onboarding/management/M3_Onboarding.md)
+    - Executive Onboarding
+      - [E1](onboarding/executive/E1_Onboarding.md)
+      - [E2](onboarding/executive/E2_Onboarding.md)
+      - [E3](onboarding/executive/E3_Onboarding.md)
+
+- **Talent Development**
+  - Career Development
+    - Overviews
+      - [IC Career Progression](career-development/overviews/IC_Career_Progression_Overview.md)
+      - [Management Career Progression](career-development/overviews/M_Career_Progression_Overview.md)
+      - [Executive Career Progression](career-development/overviews/E_Career_Progression_Overview.md)
+    - [Individual Development Plan](career-development/templates/Individual_Development_Plan_Template.md)
+    - Progression Guides
+      - [IC1 → IC2](career-development/progression-guides/ic/IC1_to_IC2_Progression_Guide.md)
+      - [IC2 → IC3](career-development/progression-guides/ic/IC2_to_IC3_Progression_Guide.md)
+      - [IC3 → IC4](career-development/progression-guides/ic/IC3_to_IC4_Progression_Guide.md)
+      - [IC4 → IC5](career-development/progression-guides/ic/IC4_to_IC5_Progression_Guide.md)
+      - [M1 → M2](career-development/progression-guides/management/M1_to_M2_Progression_Guide.md)
+      - [M2 → M3](career-development/progression-guides/management/M2_to_M3_Progression_Guide.md)
+      - [M3 → E1](career-development/progression-guides/executive/M3_to_E1_Progression_Guide.md)
+      - [E1 → E2](career-development/progression-guides/executive/E1_to_E2_Progression_Guide.md)
+      - [E2 → E3](career-development/progression-guides/executive/E2_to_E3_Progression_Guide.md)
+    - Readiness Assessments
+      - [IC1 → IC2](career-development/readiness-assessments/ic/IC1_to_IC2_Readiness_Assessment.md)
+      - [IC2 → IC3](career-development/readiness-assessments/ic/IC2_to_IC3_Readiness_Assessment.md)
+      - [IC3 → IC4](career-development/readiness-assessments/ic/IC3_to_IC4_Readiness_Assessment.md)
+      - [IC4 → IC5](career-development/readiness-assessments/ic/IC4_to_IC5_Readiness_Assessment.md)
+      - [M1 → M2](career-development/readiness-assessments/management/M1_to_M2_Readiness_Assessment.md)
+      - [M2 → M3](career-development/readiness-assessments/management/M2_to_M3_Readiness_Assessment.md)
+      - [M3 → E1](career-development/readiness-assessments/executive/M3_to_E1_Readiness_Assessment.md)
+      - [E1 → E2](career-development/readiness-assessments/executive/E1_to_E2_Readiness_Assessment.md)
+      - [E2 → E3](career-development/readiness-assessments/executive/E2_to_E3_Readiness_Assessment.md)
+  - Performance Management
+    - [Philosophy](performance-management/Performance_Management_Philosophy.md)
+    - [Annual Review Process](performance-management/guides/Annual_Review_Process_Guide.md)
+    - [Quarterly Check-in](performance-management/templates/Quarterly_Check-in_Template.md)
+    - IC Assessments
+      - [IC1 Self](performance-management/templates/ic/IC1_Self_Assessment.md) | [Peer](performance-management/templates/ic/IC1_Peer_Assessment.md) | [Manager](performance-management/templates/ic/IC1_Manager_Assessment.md)
+      - [IC2 Self](performance-management/templates/ic/IC2_Self_Assessment.md) | [Peer](performance-management/templates/ic/IC2_Peer_Assessment.md) | [Manager](performance-management/templates/ic/IC2_Manager_Assessment.md)
+      - [IC3 Self](performance-management/templates/ic/IC3_Self_Assessment.md) | [Peer](performance-management/templates/ic/IC3_Peer_Assessment.md) | [Manager](performance-management/templates/ic/IC3_Manager_Assessment.md)
+      - [IC4 Self](performance-management/templates/ic/IC4_Self_Assessment.md) | [Peer](performance-management/templates/ic/IC4_Peer_Assessment.md) | [Manager](performance-management/templates/ic/IC4_Manager_Assessment.md)
+      - [IC5 Self](performance-management/templates/ic/IC5_Self_Assessment.md) | [Peer](performance-management/templates/ic/IC5_Peer_Assessment.md) | [Manager](performance-management/templates/ic/IC5_Manager_Assessment.md)
+    - Management Assessments
+      - [M1 Self](performance-management/templates/management/M1_Self_Assessment.md) | [Peer](performance-management/templates/management/M1_Peer_Assessment.md) | [Manager](performance-management/templates/management/M1_Manager_Assessment.md)
+      - [M2 Self](performance-management/templates/management/M2_Self_Assessment.md) | [Peer](performance-management/templates/management/M2_Peer_Assessment.md) | [Manager](performance-management/templates/management/M2_Manager_Assessment.md)
+      - [M3 Self](performance-management/templates/management/M3_Self_Assessment.md) | [Peer](performance-management/templates/management/M3_Peer_Assessment.md) | [Manager](performance-management/templates/management/M3_Manager_Assessment.md)
+    - Executive Assessments
+      - [E1 Self](performance-management/templates/executive/E1_Self_Assessment.md) | [Peer](performance-management/templates/executive/E1_Peer_Assessment.md) | [Manager](performance-management/templates/executive/E1_Manager_Assessment.md)
+      - [E2 Self](performance-management/templates/executive/E2_Self_Assessment.md) | [Peer](performance-management/templates/executive/E2_Peer_Assessment.md) | [Manager](performance-management/templates/executive/E2_Manager_Assessment.md)
+      - [E3 Self](performance-management/templates/executive/E3_Self_Assessment.md) | [Peer](performance-management/templates/executive/E3_Peer_Assessment.md) | [Manager](performance-management/templates/executive/E3_Manager_Assessment.md)
+
+- **Administration**
+  - Implementation
+    - [Rollout Playbook](implementation/Implementation_Rollout_Playbook.md)
+    - [Calibration Meeting Guide](implementation/Calibration_Meeting_Guide.md)
+    - [Manager Training Guide](implementation/Manager_Training_Guide.md)
+    - [Manager FAQ](implementation/Manager_FAQ.md)
+    - [Employee FAQ](implementation/Employee_FAQ.md)
+  - [TODO](Leveling_Framework_TODO.md)
